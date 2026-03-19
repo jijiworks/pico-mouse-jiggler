@@ -27,7 +27,10 @@ sd/
 
 ## Required Library
 
-This project requires files from `Adafruit_CircuitPython_HID` (MIT License).
-Please download the required files from the repository linked below and place them in the `lib/adafruit_hid` directory.
+This project requires files from `Adafruit_CircuitPython_HID`.
 
-https://github.com/adafruit/Adafruit_CircuitPython_HID
+- Repository: https://github.com/adafruit/Adafruit_CircuitPython_HID
+- License: MIT License
+- Copyright: Adafruit Industries
+
+Please download the required files from the repository above and place them in the `lib/adafruit_hid` directory.
